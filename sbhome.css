@@ -3,6 +3,9 @@
  	overflow-x: hidden; 
  }
 
+
+/* Navbar Animation */
+
 .hover-underline-animation {
   display: inline-block;
   position: relative;
@@ -46,6 +49,9 @@ a {
 	padding: 100px;
 }
 
+/* name section */
+
+
 .mac{
 	background-attachment: scroll;
 	background-size: cover;
@@ -70,6 +76,8 @@ a {
 	font-size: 72px;
 	font-family: Copperplate, Georgia, Helvetica, sans-serif;
 }
+
+/* About me photo */
 
 .about-photo{
 	width: 200px;
@@ -207,6 +215,8 @@ body{margin-top:20px;}
 }
 
 
+/* Projects/Skills */
+
 .projects{
 	border: 0px;
 	padding: 0px;
@@ -221,7 +231,9 @@ border: 0px;
 padding: 0px;
 margin: 0px;
 }
-/* Socials */
+
+
+/* Social Media/Contact Me Section */
 
 .socials{
 
